@@ -28,5 +28,6 @@ int main()
         else { cout << "Tekst2"; }
         wej.close();
         wyj.close();
-}
+
         return 0;
+}
